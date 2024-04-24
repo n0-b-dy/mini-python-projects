@@ -1,4 +1,4 @@
-print ("Hey man, wanna expand your so you can insult people on the interwebz?")
+print ("Hey man, wanna expand your knowledge, so you can insult people on the interwebz?")
 
 playing = input("Well, do ya? ('y or n)")
 
