@@ -6,3 +6,6 @@
 
 #### Number Guesser Game
 - Guess away and the computer will keep track of how many guesses it took.
+
+#### Rock Paper Scissors Game
+- You will play against the computer in a game of Rock, Paper, Scissors. It will also keep track of how many wins.
