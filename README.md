@@ -9,3 +9,6 @@
 
 #### Rock Paper Scissors Game
 - You will play against the computer in a game of Rock, Paper, Scissors. It will also keep track of how many wins.
+
+#### Choose Your Own Adventure Game
+- Guide your character through a series of choices and see if you can make it out alive.
